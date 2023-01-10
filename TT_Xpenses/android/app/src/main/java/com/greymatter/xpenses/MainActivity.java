@@ -1,4 +1,4 @@
-package com.tt_xpenses;
+package com.greymatter.xpenses;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

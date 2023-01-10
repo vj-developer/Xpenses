@@ -1,4 +1,4 @@
-package com.tt_xpenses.newarchitecture.modules;
+package com.greymatter.xpenses.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "859570645791",
+    "project_id": "sathish-1",
+    "storage_bucket": "sathish-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859570645791:android:9d0294a0071788c1ca1e2a",
+        "android_client_info": {
+          "package_name": "com.greymatter.xpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859570645791-r9lmidob53521bl8u3ktacbvgq8oo4hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greymatter.xpenses",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "859570645791-4lht2n18o018a9shnk2voar15tda4asu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqSU2mdnv8jng7NnnMw9GP43unhQHP_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859570645791-4lht2n18o018a9shnk2voar15tda4asu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

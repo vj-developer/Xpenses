@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "TT_Xpenses.app"
-               BlueprintName = "TT_Xpenses"
-               ReferencedContainer = "container:TT_Xpenses.xcodeproj">
+               BuildableName = "TTXpenses.app"
+               BlueprintName = "TTXpenses"
+               ReferencedContainer = "container:TTXpenses.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "TT_XpensesTests.xctest"
-               BlueprintName = "TT_XpensesTests"
-               ReferencedContainer = "container:TT_Xpenses.xcodeproj">
+               BuildableName = "TTXpensesTests.xctest"
+               BlueprintName = "TTXpensesTests"
+               ReferencedContainer = "container:TTXpenses.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TT_Xpenses.app"
-            BlueprintName = "TT_Xpenses"
-            ReferencedContainer = "container:TT_Xpenses.xcodeproj">
+            BuildableName = "TTXpenses.app"
+            BlueprintName = "TTXpenses"
+            ReferencedContainer = "container:TTXpenses.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TT_Xpenses.app"
-            BlueprintName = "TT_Xpenses"
-            ReferencedContainer = "container:TT_Xpenses.xcodeproj">
+            BuildableName = "TTXpenses.app"
+            BlueprintName = "TTXpenses"
+            ReferencedContainer = "container:TTXpenses.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

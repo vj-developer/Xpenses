@@ -1,4 +1,4 @@
-package com.tt_xpenses.newarchitecture;
+package com.greymatter.xpenses.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,10 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.tt_xpenses.BuildConfig;
-import com.tt_xpenses.newarchitecture.components.MainComponentsRegistry;
-import com.tt_xpenses.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.greymatter.xpenses.BuildConfig;
+import com.greymatter.xpenses.newarchitecture.components.MainComponentsRegistry;
+import com.greymatter.xpenses.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+
 import java.util.ArrayList;
 import java.util.List;
 

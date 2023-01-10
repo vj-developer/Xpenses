@@ -1,4 +1,4 @@
-package com.tt_xpenses.newarchitecture.components;
+package com.greymatter.xpenses.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
